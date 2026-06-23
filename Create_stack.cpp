@@ -59,7 +59,7 @@ int peek(){
     
 };
 
-int main(){
+int main(){ 
 stack s;
 s.push(5);
 s.push(2);
